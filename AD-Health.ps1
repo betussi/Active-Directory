@@ -378,6 +378,7 @@ $htmlhead = "<html>
                 td.info{background: #85D4FF;}
                 </style>
                 <body>
+                <img src=""https://raw.githubusercontent.com/betussi/Active-Directory/main/Invillia_logo.png"" alt=""Invillia Logo"" width=""250"" height=""125"">
                 <h1 align=""left"">Domain Controller Health Check Report</h1>
                 <h3 align=""left"">Generated: $reportime</h3>"
                    
